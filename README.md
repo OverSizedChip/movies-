@@ -1,1 +1,1 @@
-# movies-
+# movies- This website will show  my 5 favorite movies alone with my reviews on the movies, their trailers, and the poster. Each movie will have its own dedicated page. 
