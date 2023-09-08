@@ -1,0 +1,10 @@
+@font-face {
+    font-family: firstfont ;
+    src: url(JurassicPark-BL48.ttf);
+}
+
+center {
+ font-family: firstfont;
+ color:red;
+
+}

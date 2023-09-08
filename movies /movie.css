@@ -1,0 +1,10 @@
+@font-face {
+    font-family: fontfont;
+    src: url(luckiestguy.ttf);
+}
+
+h1 {
+    font-family: firstfont;
+    color:rgb(88, 0, 253);
+   
+   }
