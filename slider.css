@@ -1,15 +1,12 @@
-*{
-margin:0;
-padding:0;
-box-sizing: border-box;
-
+.carousel-item {
+    height: 26rem;
+    width: 44.5rem;
+    left: 10.5rem;
+    background: #000;
 }
 
-.container{
-width: 53%;
-height: 300px;
-position: relative;
-left: 261px;
-top: 110px;
-background:#00000093;
+.carousel-item img {
+    opacity: 1.0;
 }
+
+    
